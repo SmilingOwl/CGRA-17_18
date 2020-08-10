@@ -18,3 +18,6 @@ Here is an image of the track:
 Here is a image of the crane moving the vehicle:
 
 ![](https://github.com/SmilingOwl/CGRA-17_18/blob/master/screenshots/1.png)
+<br>
+
+**You can also checkout the [project's video](https://youtu.be/GBfmKlHiKOE)**
